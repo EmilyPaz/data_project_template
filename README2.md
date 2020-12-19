@@ -8,7 +8,7 @@ Bootcamp data project template
 In our 6th week of Ironhack's Bootcamp, we are learning how to work in our repositories. 
 This time we have a function in **Calculator.py** where we can have these inputs:
 
-##Inputs:
+### Inputs:
 
 - Substraction.
 - Division.
